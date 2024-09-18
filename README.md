@@ -10,4 +10,4 @@ Ferromagnetic domains in a Co sphere and DOS in Sommerfeld model (file 'Ferromag
 ## NUCLEAR FUSION:
 Magnetic fields in a Tokamak and in a Stellarator (file 'BStellarator' and 'BTokamakePlasmaCurrent')
 
-The corresponding png are the output in Matlab
+### The corresponding png are the output in Matlab
